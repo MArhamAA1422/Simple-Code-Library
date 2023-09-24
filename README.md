@@ -1,2 +1,2 @@
 # Simple-Code-Library
-About DSA Learning
+Mainly for DSA learning & memorizing stuffs.
