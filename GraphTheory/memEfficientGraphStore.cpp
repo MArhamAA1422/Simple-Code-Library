@@ -114,4 +114,8 @@ HELPFUL in FLOW PROBLEM
 
 TESTED LOCALLY
 
+IN FLOW
+	If we place ARC and REV_ARC consecutively then, ARC idx = 2i and REV_ARC idx = 2i+1
+	Trick: (2i+1) ^ 1 = 2i as well as 2i ^ 1 = 2i+1
+
 */
