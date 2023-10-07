@@ -26,3 +26,6 @@
 11. FOR BIG SIZE USE DYNAMIC VECTOR IN C++
 
 12. x&(1<<b)==0 IS WRONG, WRITE ( x&(1<<b) )==0
+
+13. FOR BIG STRING
+	std::cin >> s; IS BETTER THAN scanf("%s",s);
