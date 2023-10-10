@@ -29,3 +29,6 @@
 
 13. FOR BIG STRING
 	std::cin >> s; IS BETTER THAN scanf("%s",s);
+
+14. ALWAYS DO THIS, ( a % M + M ) % M
+	AS, NEGATIVE RES COULD OCCUR
