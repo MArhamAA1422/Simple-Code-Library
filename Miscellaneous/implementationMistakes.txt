@@ -29,6 +29,7 @@
 
 13. FOR BIG STRING
 	std::cin >> s; IS BETTER THAN scanf("%s",s);
+	BUT, AGAIN std::cin>>s IS SLOW WITHOUT ios_base
 
 14. ALWAYS DO THIS, ( a % M + M ) % M
 	AS, NEGATIVE RES COULD OCCUR

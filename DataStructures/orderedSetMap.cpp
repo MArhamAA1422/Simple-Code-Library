@@ -89,7 +89,7 @@ signed main() {
 	C:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\ext\pb_ds\detail\resize_policy
 	hash_standard_resize_policy_imp.hpp0000644 -> hash_standard_resize_policy_imp.hpp
 	
-	From Shohag vai's template
+	From YouKn0wWho's template
 	
 	oSet<int>se;
   	se.insert(1);
