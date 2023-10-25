@@ -1,0 +1,15 @@
+* lca
+* mo
+* bfs/dfs
+* start/finish time
+* sparse table
+* bit
+* segTree
+* cycle count/find
+* min Spanning tree
+* modint
+* string sub/mul/add/div
+* kmp
+* hashing
+* z-fn
+* 
