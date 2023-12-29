@@ -41,3 +41,5 @@
 17. REDUCE AS MUCH FLOAR OPERATION AS POSSIBLE
 
 	* DON'T DO a/b > c, INSTEAD DO a > b*c
+
+18. vec.erase(vec.begin()) -> CAN CAUSE TLE ISSUE
