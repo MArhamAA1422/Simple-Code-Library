@@ -1,10 +1,6 @@
-* lca
-* mo
 * bfs/dfs
 * start/finish time
-* sparse table
-* bit
-* segTree
+* BIT
 * cycle count/find
 * min Spanning tree
 * modint
@@ -12,4 +8,6 @@
 * kmp
 * hashing
 * z-fn
-* 
+* lazy seg
+* lca
+* lis (nlgn)
