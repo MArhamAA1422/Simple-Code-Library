@@ -45,3 +45,5 @@
 18. vec.erase(vec.begin()) -> CAN CAUSE TLE ISSUE
 
 19. cin/cout WITH FASTIO IS FASTER THAN scanf/printf
+
+20. map OR unordered_map
