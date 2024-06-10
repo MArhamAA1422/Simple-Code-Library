@@ -32,7 +32,7 @@ signed main() {
 		int req = (int)s.size();
 		s = s + "#" + text;
 
-		int N = (int)text.size() + (int)s.size() + 1;
+		int N = (int)s.size();
 		int LPS[N + 1];
 		LPS[0] = -1;
 
