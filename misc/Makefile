@@ -2,7 +2,10 @@
 # Compiler
 CXX=g++
 # Compiler flags
-CXXFLAGS=-Wall -Wextra -std=c++17
+# CXXFLAGS=-Wall -Wextra -std=c++17
+CXXFLAGS = -DLOCAL -std=c++17 -Wshadow -Wall -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -g
+
+# ​​g++ -DLOCAL -std=c++17 -Wshadow -Wall -o "h" "h.cpp" -fsanitize=address -fsanitize=undefined -D_GLIBCXX_DEBUG -g (in directory: /home/marhamaa1422/Coding)
 
 # Directories containing source files
 SRCDIRS := $(wildcard */)
