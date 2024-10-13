@@ -19,7 +19,9 @@
 
 9. DON'T UPDATE ARRAY ELEMENT WITHOUT PROPER MEMORY ADDRESSING
    
-   -> FOR EXAMPLE: for (auto i : array) i++; IT SHOULD BE: for (auto &i : array) i++;
+   -> FOR EXAMPLE: for (auto &i : array) i++;
+
+   -> ALSO, LESSEN RUN TIME
 
 10. FORGET TO RESET THE ARRAY
 
