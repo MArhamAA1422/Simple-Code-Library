@@ -45,7 +45,7 @@ signed main() {
       for (int i = 1; i <= n; i++) scanf("%d",&a[i]);
          
       std::vector<Q> q(m);
-      for (int i = 0,l,r; i < m; i++) {
+      for (int i = 0; i < m; i++) {
          scanf("%d%d",&q[i].l,&q[i].r);
          q[i].id = i;
       }
