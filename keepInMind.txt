@@ -59,3 +59,5 @@
 23. s = s+t, OR, s += t  // string CONCAT
 
 24. int n; scanf("%d",&n); int a[n];  // CAN CREATE COMPILATION ERROR
+
+25. sqrtf() IS BAD, RATHER USE sqrtl() OR sqrt()
