@@ -14,7 +14,7 @@ bool fn(int l, int r, string& s) {
     return dp[l][r] = fn(l+1, r-1, s);
 }
 
-int minPalindromeSubstr(string& s) {
+int maxPalindromeSubstr(string& s) {
     memset(dp, -1, sizeof dp);
     N = (int)s.size();
     for (int i = 0; i < N; i++) {

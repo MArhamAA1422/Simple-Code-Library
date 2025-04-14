@@ -1,5 +1,3 @@
-* bfs/dfs
-* start/finish time
 * BIT
 * cycle count/find
 * min Spanning tree
@@ -10,4 +8,5 @@
 * z-fn
 * lazy seg
 * lca
-* lis (nlgn)
+* dfs start/finish time
+* palindrome, dp
